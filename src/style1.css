@@ -10,6 +10,7 @@ nav {font-family: sans-serif; font-size: 10px;}
 #main {width: 900px; margin: 10px auto;}
 /* Use the 'Supermercado One' font at 45px (colored #5d4037) for the restaurant name. */
 h1 {
+   font-family:supermercado one;
    font-size:45px; 
    color:#5d4037;
 }
@@ -27,7 +28,7 @@ h1 {
 
 /* Set the separator between the columns to be 2px dashed rosybrown. */
 #vertical-line {
-   border-right:2px solid rosybrown;
+   border-right:2px dashed rosybrown;
    height:750px;
     
 }
